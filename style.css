@@ -416,9 +416,7 @@ body{
 @media screen and (max-width:500px){
 
 .container{
-    border: 2px solid red;
     justify-content: center;
-    
     left: 10px;
     
     
